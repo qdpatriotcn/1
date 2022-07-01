@@ -1,8 +1,9 @@
-// 配置地址 -->  https://qdpatriotcn.github.io/1/bc.json
+// 配置地址 -->  https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/bc.json
 
 {
+
 //"spider":"https://qdpatriotcn.github.io/1/bc.jar",
-  "spider":"https://qdpatriotcn.github.io/1/0701apple.jar",
+  "spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/0701apple.jar",
      //"spider":"https://qdpatriotcn.github.io/1/0630.jar",
   
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9xZHBhdHJpb3Rjbi5naXRodWIuaW8vMS90di9iYy50eHQ="]}]}],
