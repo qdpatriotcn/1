@@ -7,6 +7,10 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3FkcGF0cmlvdGNuLzFAbWFpbi90di9iYy50eHQ="]}]}],
 
 "sites":[
+## 新加libvio
+  {"key":"Lib","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+## 以上
+
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
