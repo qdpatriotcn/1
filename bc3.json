@@ -2,7 +2,9 @@
 
 {
 
-"spider":"https://ghproxy.com/raw.githubusercontent.com/qdpatriotcn/1/main/0701apple.jar",
+//"spider":"https://ghproxy.com/raw.githubusercontent.com/qdpatriotcn/1/main/0701apple.jar",
+
+"spider":"https://ghproxy.com/raw.githubusercontent.com/qdpatriotcn/1/main/qiaojigou.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3FkcGF0cmlvdGNuLzEvbWFpbi90di9iYy50eHQ="]}]}],
 
