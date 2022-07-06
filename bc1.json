@@ -4,8 +4,12 @@
 
 //"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/0701apple.jar",
 
-"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/qiaojigou.jar",
-  
+//"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/qiaojigou.jar",
+ 
+"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/0706净化包.jar",
+
+
+ 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3FkcGF0cmlvdGNuLzFAbWFpbi90di9iYy50eHQ="]}]}],
 
 "sites":[
