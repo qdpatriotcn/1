@@ -1,19 +1,11 @@
-// 配置地址 -->  https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/bc1.json
+
 
 {
 
-//"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/0701apple.jar",
 
-//"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/qiaojigou.jar",
- 
-//"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/0706净化包.jar",
+//                   "spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA4.jar",
 
-
-"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/07061553净化包.jar",
-
-
- 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3FkcGF0cmlvdGNuLzFAbWFpbi90di9iYy50eHQ="]}]}],
+                     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3FkcGF0cmlvdGNuLzFAbWFpbi90di9iYy50eHQ="]}]}],
 
 "sites":[
 ## 新加libvio
@@ -330,7 +322,7 @@
 {"key":"csp_appysv2_U5影视","name":"U5影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
 {"key":"csp_appysv2_OK影视","name":"OK影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"},
 {"key":"csp_appysv2_MX影视","name":"MX影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"csp_appysv2_69美剧","name":"69美剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/api.php/v1.vod"},
+{"key":"csp_appysv2_69美剧","name":"69美剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/api.php/v1.vod"},"spider":"https://gitee.com/qdpatriot/tb/raw/master/src/2/old.jar",
 #
 #神马
 {"key":"csp_appysv2_影视阁","name":"影视阁(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://216.98.10.85/api.php/iptv/vod/"},
@@ -415,6 +407,7 @@
 {"key":"乐多资源","name":"乐多资源(切)","type":0,"api":"http://cj.leduocaiji.com/inc/api.php","playUrl":"json:https://api.leduotv.com/wp-api/getvodurl.php?vid=","searchable":1,"quickSearch":1},
 {"key":"聚合资源","name":"聚合资源(切)","type":1,"api":"https://ziyuan.juhesys.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 #
 #优质资源
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
