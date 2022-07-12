@@ -1,9 +1,11 @@
 
 
 {
-	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider.jar",
+	
+	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/ppyjh.jar",
+//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider.jar",
 //"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/custom_spider.jar",
-                 // "spider":"https://gitee.com/qdpatriot/tb/blob/master/src/2/old.jar",
+// "spider":"https://gitee.com/qdpatriot/tb/blob/master/src/2/old.jar",
 
                      "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3FkcGF0cmlvdGNuLzFAbWFpbi90di9iYy50eHQ="]}]}],
 
