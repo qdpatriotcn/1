@@ -114,7 +114,7 @@
       "key": "Gitcafe",
       "name": "小纸条",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_GitCafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -219,7 +219,7 @@
 //{"key":"csp_Lgyy","name":"⛔蓝光(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Mjxq","name":"⛔美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"csp_Qicui","name":"⛔奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Qicui","name":"⛔奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Subaibai","name":"⛔素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"spider_Ikan","name":"⛔爱看(SP)","type":3,"api":"spider_Ikan","searchable":1,"quickSearch":1,"filterable":1},
 
