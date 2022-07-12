@@ -2,7 +2,7 @@
 
 {
 	
-	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/pyyjhb.jar",
+	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/pyyjhb1.jar",
 //"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider.jar",
 //"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/custom_spider.jar",
 // "spider":"https://gitee.com/qdpatriot/tb/blob/master/src/2/old.jar",
@@ -93,8 +93,8 @@
       "api": "csp_BBB",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/ZJ/Bili.json"
+      "filterable": 1
+//	"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/ZJ/Bili.json"
     },
 
 //{"key":"csp_BBB","name":"🏮bilibili(SP)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
