@@ -1,8 +1,8 @@
 
 
 {
-	
-	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/pyyjhb1.jar",
+	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider_714.jar",
+	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/pyyjhb1.jar",
 //"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider.jar",
 //"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/custom_spider.jar",
 // "spider":"https://gitee.com/qdpatriot/tb/blob/master/src/2/old.jar",
@@ -111,7 +111,7 @@
       "ext": "27b06d5221a24199b15f2e573d847430"
     },
     {
-      "key": "Gitcafe",
+      "key": "GitCafe",
       "name": "小纸条",
       "type": 3,
       "api": "csp_GitCafe",
