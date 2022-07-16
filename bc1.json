@@ -16,7 +16,9 @@
 ## 新加libvio
 //{"key":"Lib","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 ## 以上
-
+  {"key":"FindZY","name":"FindZY(不用选)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"5d52036a715340f69380144ff6837fa0"},
+  {"key": "GitCafe","name": "小纸条(不用选)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
+  {"key": "AliPS","name": "盘搜(不用选)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
 //清晰度高-------------------------------------------------------------------------------------------------------------------------
  
  {"key":"csp_Lgyy","name":"⬇这些就够用⬇","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
@@ -72,29 +74,7 @@
     {"key": "小宝影院","name": "⛔在下面的就没必要了⛔","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-  {"key":"FindZY","name":"🐱找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"5d52036a715340f69380144ff6837fa0"},
-  {
-      "key": "GitCafe",
-      "name": "小纸条",
-      "type": 3,
-      "api": "csp_GitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "27b06d5221a24199b15f2e573d847430"
-    },
 
-
-	    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "27b06d5221a24199b15f2e573d847430"
-    },
    
  {"key":"csp_Nbys","name":"泥巴(挂梯子可用)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"If101","name":"If101(挂梯子可用)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
