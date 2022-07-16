@@ -3,7 +3,9 @@
 {
 	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider_714.jar",
 	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/pyyjhb1.jar",
-	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/quan.jar",
+	
+"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/diejia2.jar",
+	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/quan.jar",
 //"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider.jar",
 //"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/custom_spider.jar",
 // "spider":"https://gitee.com/qdpatriot/tb/blob/master/src/2/old.jar",
@@ -22,14 +24,16 @@
 
   {"key":"csp_LiteApple","name":"💯小苹果(高清SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
   {"key":"csp_Cokemv","name":"💯Cokemv(高清SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Wmkk","name":"💯完美看看","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_biubiu_在线之家","name":"💯在线之家(高清XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/MaooXB/在线之家.json"},
  // {"key": "zxzj","name": "💯在线之家(高清SP)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_biubiu_厂长资源-蓝光","name":"💯厂长影视(高清XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/MaooXB/厂长资源-蓝光.json"},
+//{"key":"csp_biubiu_厂长资源-蓝光","name":"💯厂长影视(高清XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/MaooXB/厂长资源-蓝光.json"},
  {"key":"厂长影视","name":"💯厂长影视(高清SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Ikan","name": "💯爱看(高清SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Lib","name":"💯LIBVIO","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"💯低端影视(高清SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
- //  {"key":"厂长影视","name":"💯厂长影视(高清SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"厂长影视","name":"💯厂长影视(高清SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
  {"key": "555电影","name": "💯555电影(高清XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/MaooXB/555dy.json"},
 
 
