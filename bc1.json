@@ -62,7 +62,9 @@
 {"key":"csp_Mjxq","name":"💎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_N0ys","name":"💎🐼1090(快模糊SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_DY1990","name":"⛔在下面的就没必要了⛔","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "小宝影院","name": "⛔在下面的就没必要了⛔","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
   {"key":"FindZY","name":"🐱找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"5d52036a715340f69380144ff6837fa0"},
   {
       "key": "GitCafe",
@@ -177,15 +179,7 @@
     },
 
  
-    {
-      "key": "小宝影院",
-      "name": "小宝影院",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
    
 	
 //{"key":"csp_Newfii","name":"⛔Newfii","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
