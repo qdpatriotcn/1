@@ -74,14 +74,14 @@
 
     {"key": "小宝影院","name": "⛔在下面的就没必要了⛔","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
   
- {"key":"csp_Nbys","name":"泥巴(挂梯子可用)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"If101","name":"If101(挂梯子可用)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_Nbys","name":"🚧泥巴(挂梯子可用)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"If101","name":"🚧If101(挂梯子可用)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 
- {"key":"csp_Bttoo","name":"💯两个BT(高清SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_Bttoo","name":"🍻TWOBT(高清SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
  {
       "key": "Bili",
-      "name": "B站",
+      "name": "🅱哔哩哔哩",
       "type": 3,
       "api": "csp_BBB",
       "searchable": 1,
