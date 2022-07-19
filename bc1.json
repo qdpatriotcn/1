@@ -5,7 +5,7 @@
 	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/pyyjhb1.jar",
 	
 //"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/diejia2.jar",
-	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/top92.jar",
+	"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/top921.jar",
 	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/quan.jar",
 //"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider.jar",
 //"spider":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/custom_spider.jar",
@@ -43,7 +43,7 @@
 //{"key":"csp_DiDuan","name":"💯低端影视(高清SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "555电影","name": "💯555电影(高清XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/MaooXB/555dy.json"},
 {"key": "Ikan","name": "💯爱看(高清SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""}, 
 
 
 //{"key":"csp_Buka","name":"💯真不卡(高清SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
@@ -54,6 +54,7 @@
 {"key":"csp_xpath_lezhutv","name": "🚀乐猪(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"},
 ## 后加从0701json(AppYs)
 {"key":"csp_appys_美剧虫","name":"🚀美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+{"key":"csp_xml___量子资源","name":"🐝量子资源"   ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 //{"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_IQIYI","name":"爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
