@@ -66,7 +66,9 @@
 {"key": "Nfyun","name": "💎Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_DY1990","name":"💎1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"💎360(快模糊SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SP360","name":"💎360(快模糊SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_SP361","name":"💎360(快模糊SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Auete","name":"💎Auete(快模糊SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"💎快看(快模糊SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kmys","name":"💎酷猫(快模糊SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
@@ -82,27 +84,9 @@
 
  {"key":"csp_Bttoo","name":"🍻TWOBT(高清SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
- {
-      "key": "Bili",
-      "name": "🅱哔哩哔哩",
-      "type": 3,
-      "api": "csp_BBB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/ZJ/Bili.json"
-    },
+ //{"key": "Bili","name": "🅱哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/ZJ/Bili.json"},
 
-//   {
- //     "key": "Bili",
- //     "name": "🏮Bili",
- //     "type": 3,
- //     "api": "csp_BBB",
-//      "searchable": 1,
-//      "quickSearch": 1,
- //     "filterable": 1
-//	"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/ZJ/Bili.json"
- //   },
+{"key": "Bili","name": "🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/ZJ/Bili.json"},
 
 //{"key":"csp_BBB","name":"🏮bilibili(SP)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 //  {"key":"Gitcafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"5d52036a715340f69380144ff6837fa0"},
