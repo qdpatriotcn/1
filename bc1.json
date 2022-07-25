@@ -1,9 +1,11 @@
 
 
 {
+"spider":"https://gitea.com/n3rd/BOX/raw/branch/master/sm0725.jar",
+
 	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/custom_spider_714.jar",
 	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/top93.jar",
-	"spider":"https://qdpatriotcn.github.io/1/top93.jar",
+	//"spider":"https://qdpatriotcn.github.io/1/top93.jar",
 //"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/diejia2.jar",
 	//"spider":"https://gitee.com/qdpatriot/tb/raw/main/src/2/top929211.jar",
 
@@ -43,6 +45,8 @@
 {"key":"csp_biubiu_LIBVIO","name":"💯LIBVIO(高清XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/MaooXB/LIBVIO.json"},
 //{"key":"csp_DiDuan","name":"💯低端影视(高清SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "555电影","name": "💯555电影(高清XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/qdpatriotcn/1@main/MaooXB/555dy.json"},
+{"key": "Smdyy","name": "💯神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Ikan","name": "💯爱看(高清SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"追剧喵","name":"💯追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},    
 {"key":"293视频","name":"💯293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""}, 
@@ -66,9 +70,9 @@
 {"key": "Nfyun","name": "💎Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_DY1990","name":"💎1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_SP360","name":"💎360(快模糊SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"💎360(快模糊SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_SP361","name":"💎360(快模糊SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1}, 
+//{"key":"csp_SP361","name":"💎360(快模糊SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Auete","name":"💎Auete(快模糊SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"💎快看(快模糊SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kmys","name":"💎酷猫(快模糊SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
