@@ -21,9 +21,14 @@
 ## 新加libvio
 //{"key":"Lib","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 ## 以上
-  {"key":"FindZY","name":"FindZY(不用选)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"5d52036a715340f69380144ff6837fa0"},
-  {"key": "GitCafe","name": "小纸条(不用选)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
-  {"key": "AliPS","name": "盘搜(不用选)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
+//  {"key":"FindZY","name":"FindZY(不用选)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"5d52036a715340f69380144ff6837fa0"},
+//  {"key": "GitCafe","name": "小纸条(不用选)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
+//  {"key": "AliPS","name": "盘搜(不用选)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
+
+  {"key":"FindZY","name":"FindZY(不用选)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+  {"key": "GitCafe","name": "小纸条(不用选)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
+  {"key": "AliPS","name": "盘搜(不用选)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 //清晰度高-------------------------------------------------------------------------------------------------------------------------
  
  {"key":"csp_Lgyy","name":"⬇这些就够用⬇","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
